@@ -1,3 +1,30 @@
 body {
     background-color: #d0e4fe;
+	font-size: 36px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+body, ul {
+	display: inline;
+	text-align: center;
+}
+
+ul#head1 {
+	background-color:#F00;
+	text-align: center;
+}
+
+ul#head2 {
+	background-color: #FF0;
+	text-align: center;
+}
+
+ul#head3 {
+	background-color: #03F;
+	text-align: center;
+}
+
+ul#head4 {
+	background-color: #0C3;
+	text-align: center;
 }
