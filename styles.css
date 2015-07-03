@@ -62,7 +62,11 @@ body, ul {
 /*Navigation*/
 
 #wrapper #nav {
-	padding-bottom: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	background-color: #FA5858;
+	border-style: solid;
+	border-color: black;
 }
 
 ul#head1 {
