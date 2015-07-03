@@ -24,7 +24,7 @@ p {
 
 #wrapper #main #right {
 	float: right;
-	width: 300px;
+	width: 30%;
 	display: block;
 	word-wrap: break-word;
 	border-style: solid;
@@ -36,7 +36,7 @@ p {
 
 #wrapper #main #left {
 	float: left;
-	width: 1330px;
+	width: 60%;
 	display: block;
 	padding-right: 20px;
 	border-style: solid;
