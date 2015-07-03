@@ -67,6 +67,8 @@ body, ul {
 	background-color: #FA5858;
 	border-style: solid;
 	border-color: black;
+	margin-left: 30px;
+	margin-right: 30px;
 }
 
 ul#head1 {
